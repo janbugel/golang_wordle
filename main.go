@@ -35,7 +35,7 @@ var wordList = []string{
 	"slow", "snap", "snow", "soap", "soft", "soil", "sole", "song", "sort", "soup",
 	"spin", "spot", "star", "stay", "step", "stop", "sure", "swim", "take", "talk",
 	"tall", "tape", "tear", "tell", "tide", "tiny", "told", "tool", "trap", "tree",
-	"trim", "true", "turn", "twig", "type", "unit", "urge", "view", "vivid",
+	"trim", "true", "turn", "twig", "type", "unit", "urge", "view",
 	"walk", "warm", "wave", "wear", "weep", "whip", "wild", "wind", "wish", "wood",
 	"word", "work", "wrap", "year", "yoga", "zero", "zone",
 }
