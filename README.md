@@ -1,4 +1,6 @@
 # golang_worlde
-0. create cli golang worlde
-1. create tests for it
-2. 
+
+[x] create simple cli golang worlde
+[]  import 5 letter words (json or api)
+[]  add gui
+[]  create tests for it
